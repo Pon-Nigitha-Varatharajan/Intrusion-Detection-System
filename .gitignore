@@ -205,3 +205,52 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# ------------------------
+# Python cache files
+# ------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# ------------------------
+# Virtual environments
+# ------------------------
+env/
+venv/
+network_intrusion_env/
+*.env
+
+# ------------------------
+# Data files (large datasets)
+# ------------------------
+data/models/
+data/processed/
+*.csv
+*.pkl
+
+# ------------------------
+# IDE / editor settings
+# ------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ------------------------
+# Jupyter / Notebook checkpoints
+# ------------------------
+.ipynb_checkpoints/
+
+# ------------------------
+# Logs
+# ------------------------
+*.log
+
+# ------------------------
+# System files
+# ------------------------
+.DS_Store
+Thumbs.db
