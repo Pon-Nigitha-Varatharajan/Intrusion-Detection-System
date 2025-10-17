@@ -1,0 +1,8 @@
+Metric,Value
+dataset_shape,"(257673, 45)"
+missing_values_total,0
+duplicate_rows,0
+data_types,"{dtype('int64'): 30, dtype('float64'): 11, dtype('O'): 4}"
+numerical_features_count,41
+categorical_features_count,3
+class_distribution,"{1: 164673, 0: 93000}"

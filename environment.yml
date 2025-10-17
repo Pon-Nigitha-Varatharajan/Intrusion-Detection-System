@@ -1,0 +1,21 @@
+# environment.yml
+name: network_intrusion
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - streamlit
+    - pandas
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - seaborn
+    - plotly
+    - xgboost
+    - lightgbm
+    - catboost
+    - imbalanced-learn
+    - joblib
