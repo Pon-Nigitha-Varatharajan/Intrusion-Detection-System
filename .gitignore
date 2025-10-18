@@ -1,3 +1,15 @@
+# Data files
+data/raw/
+data/processed/
+data/test/
+data/predictions/
+
+# Models
+models/
+results/
+
+# Notebook checkpoints
+*.ipynb_checkpoints/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
